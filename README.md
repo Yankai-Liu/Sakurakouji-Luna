@@ -1,4 +1,4 @@
-# Sakurakouji
+# Sakurakouji-Luna
 
 Backend-first learning project for building a future voice-enabled character agent system.
 
@@ -13,7 +13,7 @@ Current stage:
 
 Current reference repos:
 - `Reference/GPT-SoVITS/`
-- `Reference/luna-sama/`
+- `Reference/LLM-TTM-Interface/`
 
 This repo is intentionally kept light until the architecture and learning direction are stable enough.
 
@@ -53,7 +53,7 @@ The project will progress in stages:
 
 1. Learn how to read and understand real repos
 2. Understand `GPT-SoVITS` as a speech engine and learning repo
-3. Understand `luna-sama` as a product-shaped reference repo
+3. Understand `LLM-TTM-Interface` as a product-shaped reference repo
 4. Build a small backend-first prototype
 5. Add dialogue, persona, memory, and TTS integration gradually
 
@@ -97,4 +97,3 @@ Before building this repo out, the next step is:
 - gain enough confidence reading real code
 
 Only after that should larger implementation begin here.
-
